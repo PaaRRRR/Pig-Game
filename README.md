@@ -1,6 +1,6 @@
 # Pig-Game
 
-This is a web application to calculate and manage your budget.
+This is a web application to play with dice. User can take random numbers. But when you get Number 1, you'll pass turn. 
 
 # Getting Started
 
